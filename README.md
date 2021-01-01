@@ -1,8 +1,8 @@
-### Hi there, I'm Marcel - aka [AndroMars][website] 👋
+### Hi there, I'm Marcel - aka [AndroMars]👋
 
 ## I'm a Developer and Designer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 
 
